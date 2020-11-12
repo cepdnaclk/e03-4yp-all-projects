@@ -10,8 +10,6 @@ Projects of E/03 Batch
 <!-- start header -->
 <div id="header">
 	<div id="logo">
-		<p>Department of</p>
-		<h1>Computer Engineering</p>
 	</div>
 </div>
 <!-- end header -->
